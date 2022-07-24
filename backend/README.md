@@ -1,5 +1,5 @@
 # Таблица
-> Код фронтенда — [тут](https://github.com/qgncc/table-frontend)
+> Код фронтенда — [тут](https://github.com/qgncc/table-main/tree/main/frontend)
 ## Установка
 1. `git clone https://github.com/qgncc/table`
 2. `cd table`
